@@ -21,4 +21,4 @@ Georgia Tech CS · Finishing MS Cybersecurity @ GT · 10+ years shipping product
 - **10+ years** as a Senior iOS Engineer shipping apps at scale
 - Now combining my engineering depth with **blockchain** and **offensive security** — building at the intersection of software, crypto, and security.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/charr91)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/charris9)
